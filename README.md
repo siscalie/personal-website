@@ -1,5 +1,5 @@
-# personal-website
+# Sophie Lama
 Personal Website, for Systems Programming Guru Point 06
 
-Sophie Lama, Computer Science major
+Computer Science major in the College of Engineering
 Notre Dame Class of 2026

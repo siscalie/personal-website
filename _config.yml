@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Siscalie's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Personal Website
+description: Personal Website for Sophie Lama

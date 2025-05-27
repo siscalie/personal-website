@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Personal Website
-description: Personal Website for Sophie Lama
+title: Sophie Lama
+description: Get to know Sophie by exploring her personal website!
